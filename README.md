@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sithum</h1>
-<h3 align="center">A undergraduate of Computer Science and Engineering from Sri Lanka</h3>
+<h3 align="center">A undergraduate of Computer Science and Engineering of University of Moratuwa from Sri Lanka</h3>
 
 - 📫 How to reach me **sithum.22@cse.mrt.ac.lk**
 
