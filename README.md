@@ -7,8 +7,19 @@
 - 📫 How to reach me **sithum.22@cse.mrt.ac.lk**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sithum-bimsara&show_icons=true&locale=en" alt="sithum-bimsara" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithum-bimsara&show_icons=true&locale=en&layout=compact" alt="sithum-bimsara" /></p>
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api?username=sithum-bimsara&show_icons=true&locale=en&theme=react" 
+       alt="sithum-bimsara" />
+</p>
+
+<p>
+  &nbsp;<img align="center" 
+             src="https://github-readme-stats.vercel.app/api/top-langs?username=sithum-bimsara&show_icons=true&locale=en&layout=compact&theme=react" 
+             alt="sithum-bimsara" />
+</p>
+
+
 
 
 <br/>
@@ -52,7 +63,12 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithum-bimsara&" alt="sithum-bimsara" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=sithum-bimsara&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" 
+       alt="sithum-bimsara" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
