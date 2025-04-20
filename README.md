@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sithum Bimsara</h1>
 <h3 align="center">A undergraduate of Computer Science and Engineering from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithum-bimsara&label=Profile%20views&color=0e75b6&style=flat" alt="sithum-bimsara" /> </p>
 
 - 🔭 I’m currently working on **web development projects**
 
