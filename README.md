@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sithum</h1>
+<h1 align="center">Hi 👋, I'm Sithum Bimsara</h1>
 <h3 align="center">A undergraduate of Computer Science and Engineering from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithum-bimsara&label=Profile%20views&color=0e75b6&style=flat" alt="sithum-bimsara" /> </p>
@@ -7,8 +7,12 @@
 
 - 📫 How to reach me **sithum.22@cse.mrt.ac.lk**
 
-<img src="https://github-readme-stats.vercel.app/api?username=sithum-bimsara&show_icons=true&locale=en" alt="GitHub Stats" />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sithum-bimsara&show_icons=true&locale=en" alt="sithum-bimsara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithum-bimsara&show_icons=true&locale=en&layout=compact" alt="sithum-bimsara" /></p>
+
+
+<br/>
 
 
 
@@ -45,7 +49,7 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sithum-bimsara&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
 
 
 
