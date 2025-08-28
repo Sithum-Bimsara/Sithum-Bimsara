@@ -76,6 +76,7 @@
 <a href="https://fb.com/sithumbimsara20030113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithumbimsara20030113" height="30" width="40" /></a>
 </p>
 
+[![Sithum's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sithum-bimsara&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
